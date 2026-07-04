@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782137318570-z42saffzb",
+  "providerId": "claude",
+  "title": "Diagnose Five-Layer Complexity",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782137318571,
+  "updatedAt": 1782754775989,
+  "lastResponseAt": 1782137895111,
+  "sessionId": "44193ff8-3d6b-4e18-b195-aa57b92efc2c",
+  "providerState": {
+    "providerSessionId": "44193ff8-3d6b-4e18-b195-aa57b92efc2c"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 3095,
+    "cacheReadInputTokens": 32894,
+    "contextWindow": 200000,
+    "contextTokens": 35992,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

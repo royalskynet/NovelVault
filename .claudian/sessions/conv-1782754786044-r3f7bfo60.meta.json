@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782754786044-r3f7bfo60",
+  "providerId": "claude",
+  "title": "重構玄君 Vault：世界觀統合與架構優化",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782754786045,
+  "updatedAt": 1783188561655,
+  "lastResponseAt": 1782756546375,
+  "sessionId": "c2eaf0ca-8e62-473b-8ae9-9db7dc477b46",
+  "providerState": {
+    "providerSessionId": "c2eaf0ca-8e62-473b-8ae9-9db7dc477b46"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 718,
+    "cacheReadInputTokens": 158081,
+    "contextWindow": 200000,
+    "contextTokens": 158800,
+    "percentage": 79,
+    "contextWindowIsAuthoritative": true
+  }
+}

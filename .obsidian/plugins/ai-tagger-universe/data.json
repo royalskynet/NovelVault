@@ -1,0 +1,16 @@
+{
+  "serviceType": "cloud",
+  "cloudEndpoint": "https://apihub.agnes-ai.com/v1/chat/completions",
+  "cloudApiKey": "sk-IBTCAeeUezsXRNYxHrzydd1wjHRaLRPt3z4DieIjx1lcG0oq",
+  "cloudModel": "agnes-2.0-flash",
+  "cloudServiceType": "openai",
+  "language": "zh-Hant",
+  "tagSourceType": "vault",
+  "tagRangeGenerateMax": 5,
+  "tagRangeMatchMax": 5,
+  "replaceTags": false,
+  "enableNestedTags": true,
+  "nestedTagsMaxDepth": 2,
+  "tagFormat": "kebab-case",
+  "requestTimeout": 60
+}

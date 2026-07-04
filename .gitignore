@@ -1,0 +1,5 @@
+# 每台設備自行重建的向量索引，進 git 只會製造衝突
+.smart-env/
+.trash/
+.DS_Store
+**/.DS_Store

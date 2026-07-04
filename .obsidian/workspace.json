@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e0df30deeb23b51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a4b18ba10005db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ebaa99ce213d30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e7b1644851505ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "46747444c8cf9a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cec977ce7e819ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "89c21ec8edf23d77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "e2b04db5d6759b66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb034dc8765a583b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf6c7064c4e88d7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ef2643f6b7adf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "6f4c8be19b3d2a20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "5d14a01e5c5113a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "1da935517ff3a75e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "7330768a97c7c0e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          },
+          {
+            "id": "3a481fb489063864",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "978dac54b9bfff3b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "8c7fcf0941ad5b06",
+            "type": "leaf",
+            "state": {
+              "type": "tag-network-view",
+              "state": {},
+              "icon": "git-graph",
+              "title": "Tag Network Visualization"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "ai-tagger-universe:Analyze and tag current note": false,
+      "ai-tagger-universe:View tag relationships network": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "3a481fb489063864",
+  "lastOpenFiles": [
+    "xuanjun/角色/蘇境南.md",
+    "異議清單-Deer小鹿.md",
+    "_嫙子改寫日誌.md",
+    "xuanjun/角色/宋棠.md",
+    "xuanjun/廢案紀錄.md",
+    "xuanjun/角色/馬克·安東尼.md",
+    "xuanjun/世界觀/五樣秘寶.md",
+    "xuanjun/拍板提案-鏡離與黑卡.md",
+    "xuanjun/角色/盧修斯·凱撒.md",
+    "xuanjun/章節/00-序.md",
+    "xuanjun/世界觀/降臨神會.md.1782753276888.backup",
+    "xuanjun/角色/希德.md",
+    "xuanjun/角色/符.md",
+    "xuanjun/角色/晨與塵.md",
+    "xuanjun/角色/解蘭.md",
+    "xuanjun/角色/敏.md",
+    "拍板提案-鏡離與黑卡.md",
+    "敏. 薇歐拉.md",
+    "鏡離與黑卡.md",
+    "xuanjun/章節/01-宋棠.md",
+    "VAULT-MAP.md",
+    "VAULT-MAP-new.md",
+    "鏡離與黑卡-new.md",
+    "xuanjun/大綱/卷一.md",
+    "xuanjun/世界觀/雅典秘史.md",
+    "xuanjun/世界觀/弦機關.md.bak",
+    "xuanjun/世界觀/雅典秘史.md.bak",
+    "xuanjun/世界觀/戊組溫和派.md.bak",
+    "xuanjun/角色/周老.md.bak",
+    "xuanjun/角色/陸維中.md.bak",
+    "xuanjun/角色/林佩雯.md.bak",
+    "xuanjun/世界觀/復生之書.md",
+    "VAULT-MAP 1.md",
+    "xuanjun/章節/01-宋棠.md.bak",
+    "xuanjun/章節/_模板.md.bak",
+    "xuanjun/時間線.md.bak",
+    "未命名.canvas"
+  ]
+}

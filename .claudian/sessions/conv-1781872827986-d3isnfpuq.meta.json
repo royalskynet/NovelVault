@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781872827986-d3isnfpuq",
+  "providerId": "claude",
+  "title": "讀取完整 vault init",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781872828002,
+  "updatedAt": 1782027339232,
+  "lastResponseAt": 1781878328856,
+  "sessionId": "b0964711-9629-4f2f-b97a-d34ad2b4d6b0",
+  "providerState": {
+    "providerSessionId": "b0964711-9629-4f2f-b97a-d34ad2b4d6b0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 471,
+    "cacheReadInputTokens": 162538,
+    "contextWindow": 200000,
+    "contextTokens": 163017,
+    "percentage": 82,
+    "contextWindowIsAuthoritative": true
+  }
+}
