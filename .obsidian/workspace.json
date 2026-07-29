@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4b18ba10005db7",
+        "id": "afe87107332f8da2",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ebaa99ce213d30",
+            "id": "fc7cd3c3e5ceffae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "xuanjun/世界觀/魔法規則.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "魔法規則"
             }
           }
         ]
@@ -215,6 +219,21 @@
   },
   "active": "3a481fb489063864",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "xuanjun/世界觀/鏡離.md",
+    "xuanjun/世界觀/鎖律會.md",
+    "xuanjun/世界觀/資安與咒式.md",
+    "xuanjun/世界觀/雅典秘史.md",
+    "xuanjun/世界觀/銀河盟約與蜥蜴人統治.md",
+    "xuanjun/世界觀/蟲族.md",
+    "xuanjun/世界觀/米戈.md",
+    "xuanjun/世界觀/大寧山事件.md",
+    "xuanjun/世界觀/蜂巢聯邦.md",
+    "xuanjun/世界觀/新銀河聯邦.md",
+    "xuanjun/世界觀/亞特蘭提斯.md",
+    "xuanjun/世界觀/門.md",
+    "_probe2.md",
+    "_probe_tmp.md",
     "xuanjun/角色/蘇境南.md",
     "異議清單-Deer小鹿.md",
     "_嫙子改寫日誌.md",
@@ -227,27 +246,12 @@
     "xuanjun/章節/00-序.md",
     "xuanjun/世界觀/降臨神會.md.1782753276888.backup",
     "xuanjun/角色/希德.md",
-    "xuanjun/角色/符.md",
-    "xuanjun/角色/晨與塵.md",
-    "xuanjun/角色/解蘭.md",
-    "xuanjun/角色/敏.md",
-    "拍板提案-鏡離與黑卡.md",
-    "敏. 薇歐拉.md",
-    "鏡離與黑卡.md",
-    "xuanjun/章節/01-宋棠.md",
-    "VAULT-MAP.md",
-    "VAULT-MAP-new.md",
-    "鏡離與黑卡-new.md",
-    "xuanjun/大綱/卷一.md",
-    "xuanjun/世界觀/雅典秘史.md",
     "xuanjun/世界觀/弦機關.md.bak",
     "xuanjun/世界觀/雅典秘史.md.bak",
     "xuanjun/世界觀/戊組溫和派.md.bak",
     "xuanjun/角色/周老.md.bak",
     "xuanjun/角色/陸維中.md.bak",
     "xuanjun/角色/林佩雯.md.bak",
-    "xuanjun/世界觀/復生之書.md",
-    "VAULT-MAP 1.md",
     "xuanjun/章節/01-宋棠.md.bak",
     "xuanjun/章節/_模板.md.bak",
     "xuanjun/時間線.md.bak",
