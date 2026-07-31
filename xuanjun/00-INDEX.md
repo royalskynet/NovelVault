@@ -1,7 +1,7 @@
 ---
 type: index
 title: 玄君書
-subtitle: 雅典現代都市奇幻 / 輕克蘇魯 / 共享宇宙主敘事
+subtitle: 台灣現代都市奇幻 / 輕克蘇魯 / 共享宇宙主敘事
 status: drafting
 vault_root: /Users/51mini/NovelVault/xuanjun
 ---
