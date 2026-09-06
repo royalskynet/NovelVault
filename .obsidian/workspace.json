@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xuanjun/世界觀/魔法規則.md",
+                "file": "xuanjun/世界觀/爬蟲族.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "魔法規則"
+              "title": "爬蟲族"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -193,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,35 +219,35 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3a481fb489063864",
+  "active": "fc7cd3c3e5ceffae",
   "lastOpenFiles": [
-    "AGENTS.md",
-    "xuanjun/世界觀/鏡離.md",
-    "xuanjun/世界觀/鎖律會.md",
-    "xuanjun/世界觀/資安與咒式.md",
-    "xuanjun/世界觀/雅典秘史.md",
-    "xuanjun/世界觀/銀河盟約與蜥蜴人統治.md",
-    "xuanjun/世界觀/蟲族.md",
-    "xuanjun/世界觀/米戈.md",
-    "xuanjun/世界觀/大寧山事件.md",
-    "xuanjun/世界觀/蜂巢聯邦.md",
-    "xuanjun/世界觀/新銀河聯邦.md",
-    "xuanjun/世界觀/亞特蘭提斯.md",
-    "xuanjun/世界觀/門.md",
-    "_probe2.md",
-    "_probe_tmp.md",
-    "xuanjun/角色/蘇境南.md",
-    "異議清單-Deer小鹿.md",
-    "_嫙子改寫日誌.md",
-    "xuanjun/角色/宋棠.md",
-    "xuanjun/廢案紀錄.md",
-    "xuanjun/角色/馬克·安東尼.md",
-    "xuanjun/世界觀/五樣秘寶.md",
+    "xuanjun/大綱/全書骨架.md",
+    "_改寫計畫-門外之主蓋亞陰謀重構.md",
+    "xuanjun/時間線.md",
     "xuanjun/拍板提案-鏡離與黑卡.md",
-    "xuanjun/角色/盧修斯·凱撒.md",
-    "xuanjun/章節/00-序.md",
+    "xuanjun/世界觀/弦機構.md",
+    "xuanjun/世界觀/蓋亞人.md",
+    "xuanjun/世界觀/銀河盟約與蜥蜴人統治.md",
+    "xuanjun/角色/沈定.md",
+    "xuanjun/世界觀/精靈.md",
+    "xuanjun/世界觀/跨作品共享宇宙.md",
+    "xuanjun/世界觀/阿祀那族.md",
+    "xuanjun/世界觀/降神會.md",
+    "xuanjun/世界觀/四族科技樹.md",
+    "xuanjun/世界觀/米戈族.md",
+    "xuanjun/世界觀/光明聯盟.md",
+    "xuanjun/世界觀/玄君七章秘經.md",
+    "xuanjun/世界觀/北歐神族地下網絡.md",
+    "xuanjun/世界觀/以太網路.md",
+    "xuanjun/世界觀/世界聖經.md",
+    "xuanjun/世界觀/五樣秘寶.md",
+    "xuanjun/世界觀/大寧山阿祀那村.md",
+    "xuanjun/世界觀/大寧山事件.md",
+    "xuanjun/世界觀/大災變-地磁反轉.md",
+    "xuanjun/世界觀/D-38.md",
+    "xuanjun/世界觀/魔法規則.md",
+    "AGENTS.md",
     "xuanjun/世界觀/降臨神會.md.1782753276888.backup",
-    "xuanjun/角色/希德.md",
     "xuanjun/世界觀/弦機關.md.bak",
     "xuanjun/世界觀/雅典秘史.md.bak",
     "xuanjun/世界觀/戊組溫和派.md.bak",

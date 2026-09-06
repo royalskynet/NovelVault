@@ -1,0 +1,5 @@
+{
+  "role": "vault",
+  "schema": "claude-obsidian.workspace.v1",
+  "vault": "."
+}
