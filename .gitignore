@@ -3,3 +3,6 @@
 .trash/
 .DS_Store
 **/.DS_Store
+
+# Obsidian 每設備狀態檔，不進 git（verify.sh §9 誤報源）
+.obsidian/workspace.json
