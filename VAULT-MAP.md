@@ -1,3 +1,5 @@
+> ⚠ 2026-09-26 合併後過期。xuanjun 現行結構見 [[xuanjun/00-INDEX]]（正文／设定／追踪／大纲）。下文路徑僅供歷史參考。
+
 ---
 type: index
 title: NovelVault — 完整目錄
